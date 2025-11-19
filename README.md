@@ -54,17 +54,6 @@
 
 ---
 
-## 📊 Estadísticas del Perfil
-
-> Si no cargan, recarga la página: a veces el servidor se satura.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdaniel-b&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdaniel-b&layout=compact&theme=react&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#)
@@ -73,5 +62,5 @@
 ---
 
 <p align="center">
-  ✨ <i>"Cada línea de código es una oportunidad para mejorar el mundo."</i> ✨
+  <i>"Cada línea de código es una oportunidad para mejorar el mundo."</i>
 </p>
